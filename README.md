@@ -3,7 +3,8 @@
 ###
 
 <p align="left">
-Systems Analysis and Development (CST Degree) student at IFSP (3rd/5th semester), focused on backend development and building clean, scalable, and maintainable software.
+  Back-end developer focused on C# and .NET, currently pursuing a degree in Systems Analysis and Development at IFSP.
+  Interested in building reliable APIs, maintainable applications, and well-structured software.
 </p>
 
 ###
@@ -23,7 +24,7 @@ Systems Analysis and Development (CST Degree) student at IFSP (3rd/5th semester)
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="35" alt="laravel logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="35" alt="mysql logo"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="35" alt="mysql logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="35" alt="microsoftsqlserver logo"  />
   <img width="12" />
@@ -34,14 +35,23 @@ Systems Analysis and Development (CST Degree) student at IFSP (3rd/5th semester)
 
 ###
 
-<h4 align="left">🧠 Languages</h4>
+<h3 align="left">📚 Technologies & Concepts</h3>
+
+<p align="left">
+  ASP.NET Core MVC · Entity Framework Core · REST APIs · SQL ·
+  Repository Pattern · PHP · Laravel · Git
+</p>
+
+###
+
+<h4 align="left">🌐 Languages</h4>
 
 ###
 
 <p align="left">
-🇧🇷 Native Portuguese speaker <br>
-🇺🇸 Advanced English <br>
-🇪🇸 Intermediate Spanish
+🇧🇷 Portuguese — Native<br>
+🇺🇸 English — Advanced<br>
+🇪🇸 Spanish — Advanced
 </p>
 
 ###
